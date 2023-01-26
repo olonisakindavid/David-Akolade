@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olonisakin David Akolade
 - 👀 I’m interested in Tech/Software/being a tech boss
-- 🌱 I’m currently learning Cross mobile application development using flutter
+- 🌱 I’m currently a final year student at covenant university , to finish october 2023
 - 💞️ I’m open to opportunities, internships and collaborations to enhance my growth
 - 📫 You can chat me on https://www.linkedin.com/in/olonisakin-david-21162a143/
 
